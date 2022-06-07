@@ -1,0 +1,11 @@
+# SAE 2.02 Exploration algorithmique d'un problème
+sae2022-2.02 created by GitHub Classroom
+== Livrable
+
+[cols="1,2,2,5",options=header]
+|===
+| #   | Lien        |  Langage   | Catégorie
+| 1   | github.com  | Python     | Simplicité
+| 2   | github.com  | Python     | blablbla
+| 2   | github.com  | Python     | blablbla
+|===
