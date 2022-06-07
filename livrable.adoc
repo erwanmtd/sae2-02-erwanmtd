@@ -5,7 +5,7 @@ sae2022-2.02 created by GitHub Classroom
 [cols="1,2,2,5",options=header]
 |===
 | #   | Lien        |  Langage   | Catégorie
-| 1   | github.com  | Python     | Simplicité
-| 2   | github.com  | Python     | blablbla
-| 2   | github.com  | Python     | blablbla
+| 1   | https://github.dev/IUT-Blagnac/sae2-02-erwanmtd/blob/main/algo1.py    | Python   | Simplicité
+| 2   | https://github.dev/IUT-Blagnac/sae2-02-erwanmtd/blob/main/algo2.java  | Java     | blablbla
+| 3   | github.com                                                            | C        | blablbla
 |===
