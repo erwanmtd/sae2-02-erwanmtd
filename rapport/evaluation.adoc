@@ -1,0 +1,18 @@
+Voici un exemple d'évaluation synthétique :
+
+.Ma superbe évaluation
+[options="header"]
+|=========================================================================================================
+| Evaluation  | Algo                | Lisibilité  | Qualité  | Temps d’exécution  | Complexité  | Sobriété
+| 5           | simplicite-12.ipynb    | {plus}{plus}{plus}{plus}        | {plus}{plus}{plus}{plus}{plus}    | N/A                | N/A         | N/A     
+| 5           | simplicite-107.java    | {plus}{plus}{plus}{plus}{plus}       | {plus}{plus}{plus}{plus}     | N/A                | N/A         | N/A     
+| 3           | simplicite-128.java  | {plus}{plus}{plus}         | {plus}{plus}{plus}      | N/A                | N/A         | N/A     
+| 2           | simplicite-148.java  | {plus}           | {plus}{plus}{plus}{plus}     | N/A                | N/A         | N/A     
+| 5           | efficacite-3.java  | N/A         | N/A      | {plus}{plus}{plus}{plus}               | {plus}{plus}{plus}{plus}        | N/A     
+| 4           | efficacite-25.py     | N/A         | N/A      | {plus}{plus}{plus}{plus}{plus}              | {plus}{plus}{plus}         | N/A     
+| 3           | efficacite-121.c | N/A         | N/A      | {plus}{plus}{plus}                | {plus}{plus}{plus}         | N/A     
+| 2           | efficacite-151.py    | N/A         | N/A      | {plus}{plus}                 | {plus}{plus}{plus}         | N/A     
+| 5           | sobriete-68.java     | N/A         | N/A      | {plus}{plus}                 | {plus}{plus}{plus}         | {plus}{plus}{plus}     
+| 5           | sobriete-76.c       | N/A         | N/A      | {plus}{plus}                | {plus}{plus}{plus}         | {plus}{plus}{plus}     
+| 0           | sobriete-113.java    | N/A         | N/A      | -                  | -           | N/A     
+|=========================================================================================================
